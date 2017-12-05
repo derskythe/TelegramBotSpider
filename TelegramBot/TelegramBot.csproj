@@ -104,6 +104,7 @@
     </None>
     <None Include="TelegramBot.dll.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
     </None>
   </ItemGroup>
   <ItemGroup>
