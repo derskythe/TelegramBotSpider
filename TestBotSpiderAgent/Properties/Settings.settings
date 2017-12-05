@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TestBotSpiderAgent.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PublicKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAysRsFi3LipnQvW6XQ3pv
+LIPiEEKcUfvQROAsW/PxCTHuTyITxoDwocPNqMseBVTLsH3ym7Biu7Z2RjpBX6Ko
+0gRfOxr8tH/Q1SAcacroM7loBEYUiVn8Ek/7oS5BDdjp991JpDLwjfpWm6SCw5is
+drqNsHJ820gMvF9o2UDxRTNYc0OJ5kPqiNUhw6rnSr9ZaYbJuFC0pMxFeSF1C6KD
+PVRnZZCLbjVP7hHBAQ8DUpAagLY6Dy9AK5Dsxfx7jTXA0X+RP1SfWfSJ+YtSxsV6
++1g3XIrlcAp+Cd1oXFNYK+fFUDmyjO94wV/JvzV8ylLvBU8zi6P574OTsZLwkQdp
+EQIDAQAB
+-----END PUBLIC KEY-----
+</Value>
+    </Setting>
+    <Setting Name="PrivateKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-----BEGIN RSA PRIVATE KEY-----
+MIIEpQIBAAKCAQEAysRsFi3LipnQvW6XQ3pvLIPiEEKcUfvQROAsW/PxCTHuTyIT
+xoDwocPNqMseBVTLsH3ym7Biu7Z2RjpBX6Ko0gRfOxr8tH/Q1SAcacroM7loBEYU
+iVn8Ek/7oS5BDdjp991JpDLwjfpWm6SCw5isdrqNsHJ820gMvF9o2UDxRTNYc0OJ
+5kPqiNUhw6rnSr9ZaYbJuFC0pMxFeSF1C6KDPVRnZZCLbjVP7hHBAQ8DUpAagLY6
+Dy9AK5Dsxfx7jTXA0X+RP1SfWfSJ+YtSxsV6+1g3XIrlcAp+Cd1oXFNYK+fFUDmy
+jO94wV/JvzV8ylLvBU8zi6P574OTsZLwkQdpEQIDAQABAoIBAHkwgPGYmWjTmiE+
+cgYQrVXL1VemmEuf19Dys1CaMlwujaKaWXtxIWFt6AOUsvK4xa1M+a339GsBGRvM
+QbppO8Gaf1iSPqubITPgp1rLvZD8paC4Shn1wGUpjNm/DX67QMu2ZQdQstoI367S
+2p0RKTMlOP5Wzy04mPQVilMfL5UNlNwXWbsZHCkoeL8UEiGbZDsA3gB3eQzJFMjG
+diPkQrfuUBIJe3jF4kq7hTq9x+Vnt99zR4kspkdQJguxEOs6v5k8d3IZ6si7d1uZ
+vpFb3gmntqcyfZg5z6azsgmpOL6euokQ3MqLcpRWM4i3bH+n5lRIrbrBZMR+zvCU
+FnJRUGkCgYEA5RtazmAo+9fQkbVfq98lZ3h0Nbe6hBd5j6PPR4VgRoYXMxOMGiso
+sJtE5Jso+Gd0OErzGIEEYjER1HB6YISWaxzx8CK4eBm3R6dThbBxIuFqdpFVlazg
+jrCzTCX+JhMxaTAOPkqDRxB2+h8yUkbQIicCfvis3T5N9+/iSfrW2JMCgYEA4pGQ
+ntsQDIStE955VulFcM72aogZevBPhhJrvTorIuYbE0zYFPbcgA2ThIgSwVHTPQwi
+yv6k51Z2fD0LcOWKmTEv3W6IEfQjEFEWLkpttM44x6nNxOpDhCJ9567kwRwgm7tK
+OYjIkv6jj33Z2mFJsTIDpnKh/s/nRrgdfPcZ8ksCgYEAhjkHcx7dA+aFF8hVu4Cp
+DjyAgLQZ/qcuHZwPpMwcAlUupErQashcN1NQAkpwr08UxKIMV4/GfKxY0MfwujkT
+Ur+Lcm80+Y+/U6hRA2LCdXfwgnRU2rKEgLQ+5t7fTXkzGnf/8DiBPpID0jeSqKc5
+6rhF+xM/WwLUdOxB+6uMUScCgYEAhZDAzBViaa7RhbQSnjzYlf88X2MqekIu71/u
+qdgf0+wJLCCSBhHdvZPDUk8Rl2vQdt2vqTHjLwnWwbkPBJgdU+AeUpC1oLfm79iN
+le6ErCEicfpVdu+Pq9bVmH6PFpSpWIVZ5X8Qly+MZqwPgOD3m4Fbi4VqoJgZxKQH
+pkLZxe8CgYEAyszARcE/b4MHm6mqc5/beD7Ucaij6m1r3pgGTCQVOwoeaec/gXHl
+o8WwgfizTkbhwp7iIkto334zMrEbLP8KrzNJFqY53L0Su2Xagg3uyibfGzq3Yfn3
+t2n9l172lb2NiwRPhJ64/bJfD/0G33cM3TP4/o6R/bFi2wmGyFpWpDw=
+-----END RSA PRIVATE KEY-----
+</Value>
+    </Setting>
+    <Setting Name="OtherPublicKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnonwIlmu9odehkSOYwum
+inlssW1VMh/IEm+qutzBaRTKQbK8HxnY18ltFoJJCoqivXPZWwPI2wQxMamkY/yz
+1JcVGmb50d6t0FK14l1rNatrAvVXtcl7tG/tH5vh/8VIsGZIQ991SfiAqzPEl97m
+SHpGpB/wb4JZop4JEk81j4qmE3l1Qdx7zXbdwBBz1qSt7dhL744y1OzMX6/1GE7l
++bK4tj8CCN8QPdVkc9ZRNQ0L0Ltrx8eqkDblcR33r32XN/VyL/sRoCRVZYO4qUKr
+Xmo/qipkJUbNWTH3YseTdNYDIN+IGKnQJmaipZy2E8pZmPPM7PjT7P0nMNbeKL3u
+SQIDAQAB
+-----END PUBLIC KEY-----</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

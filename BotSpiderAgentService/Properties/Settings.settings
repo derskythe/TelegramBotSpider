@@ -1,0 +1,76 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BotSpiderAgentService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PrivateCert" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-----BEGIN RSA PRIVATE KEY-----
+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
+-----END RSA PRIVATE KEY-----
+</Value>
+    </Setting>
+    <Setting Name="PublicCert" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-----BEGIN PUBLIC KEY-----
+MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA7W6R3ZqiIsfOiyRLqRnT
+P7rMm3TirPOEaJeCUJ5spGhI8g1/4pdDVcABARmaP/m/uNHIXePVjHGwMRAgVqU6
+Xn6RUzCRBc/My4GN4ww8z4B0pFqCHoTFYR1RaaeAjbdQRM40Khevp986BbGQdzqu
+nmlvIm7bW2w9wT9iBHErqxTfO3j5GewDACgY5HWS9WFfMKDDiqVHkxrZgQa2vlCn
+jT21dc2CbGSynncois1kszgaF8xwKgNOj+DzrO89AASKyDm4DElncEa4r5F7Lzox
+tObZU37EIb105lxE+GCUseYjMf5D/WVIoTt/FtEBYRTEBlG7cOQimxlJhNUYZTcq
+F4dzoKW8X09R0GYjWHZh+/8Q2mj+QqRrbgNuLR3sKp52nueakfec5fGyN9uUlLK/
+D8q+JjWERgILXWrMpHWoklEXKniMlFNMTHA52t4nlsEzdx3EFNeXCdmkHloXlnLs
+aH0BTyQu67LVezKGfG3ZNTtfjJ55yIFJm6oUo0yqo6qXgAPQrccIf7ETTTt4dLER
+sorqfWq+eHb1EB3MlYbtiLjodQ46TmTO+YMC7P2aiwT7xoO9KBcSqsIxJ1osy7n+
+dslV4adv3YnMY9ZirNHTmKtuX5QOCDMa8I7QxmZoHHVeetq9plSM4daKAAJCwomA
+dSmMxi9tMl/r5qZZ28+VmGcCAwEAAQ==
+-----END PUBLIC KEY-----</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
